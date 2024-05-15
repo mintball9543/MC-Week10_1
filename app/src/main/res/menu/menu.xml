@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="선"
+        android:id="@+id/line"/>
+    <item android:title="원"
+        android:id="@+id/circle"/>
+    <item android:title="사각형"
+        android:id="@+id/rect"/>
+</menu>
